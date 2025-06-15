@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ### 🔥 My Stats :
 
-<div align="center">
+<div align="left">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madnessbrainsbl&show_icons=true&theme=dark&hide_border=true&count_private=true)
 

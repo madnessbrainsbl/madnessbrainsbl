@@ -46,9 +46,13 @@ Here are some ideas to get you started:
 
 ### 🔥 My Stats :
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_GITHUB_USERNAME&show_icons=true&theme=dark)
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ВАШ_GITHUB_USERNAME&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madnessbrainsbl&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_GITHUB_USERNAME&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madnessbrainsbl&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madnessbrainsbl&theme=dark&hide_border=true&layout=compact)
+
+</div>
 

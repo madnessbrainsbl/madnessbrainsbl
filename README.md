@@ -1,4 +1,4 @@
-## Hi 👋 My name Mark
+## Hi 👋
 
 ### 🛠️ Languages and Tools :
 
